@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Code for paper:  Beyond p-value-based meta-analysis: pathway effect size integration of multiomics data
 
 In this repository there are 3 R scripts, in order of execution:
