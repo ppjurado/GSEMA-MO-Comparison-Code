@@ -1,4 +1,4 @@
-# Code for paper:  Beyond p-value-based meta-analysis: pathway effect size integration of multiomics data
+# Code for paper:  Effect size meta-analysis framework for integrating pathway alterations across multiomics data
 
 In this repository there are 3 R scripts, in order of execution:
 
