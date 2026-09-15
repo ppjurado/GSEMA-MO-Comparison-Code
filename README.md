@@ -1,4 +1,4 @@
-# Code for paper:  Effect size meta-analysis framework for integrating pathway alterations across multiomics data
+# Code for paper:  Integrating multiomics data through pathway activity meta-analysis
 
 In this repository there are 3 R scripts, in order of execution:
 
